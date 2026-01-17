@@ -1,18 +1,23 @@
 # Parallel Kiwi (PKIW)
 
-Parallel Kiwi is an experimental community token built on Monad.
+Parallel Kiwi is an experimental ERC20 token exploring **parallel culture** on Monad.
 
-## Token Details
-- Name: Parallel Kiwi
-- Symbol: PKIW
-- Network: Monad
-- Standard: ERC20
-- Supply: Fixed
+Built as a minimal, transparent and community-first project.
 
-## Smart Contract
-- Address: 0xf90B722041f255054f9d5d42d28d7464072be233
-- Status: Verified on MonadScan
-- Compiler: Solidity 0.8.19 (optimizer enabled, 200 runs)
+---
 
-## Disclaimer
-Parallel Kiwi is an experimental project. No promises, no guarantees.
+## Token Information
+
+- **Name:** Parallel Kiwi  
+- **Symbol:** PKIW  
+- **Network:** Monad  
+- **Standard:** ERC20  
+
+---
+
+## Vision
+
+Parallel Kiwi is part of a broader idea called **Parallel Culture** —  
+a creative and technical exploration of parallel execution, culture and on-chain experimentation.
+
+More coming soon.
