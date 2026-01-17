@@ -21,3 +21,6 @@ Parallel Kiwi is part of a broader idea called **Parallel Culture** —
 a creative and technical exploration of parallel execution, culture and on-chain experimentation.
 
 More coming soon.
+
+# License
+MIT
